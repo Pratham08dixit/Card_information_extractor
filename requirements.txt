@@ -1,0 +1,5 @@
+Flask==2.2.2
+pytesseract==0.3.10
+Pillow==9.3.0
+twilio==7.15.0
+python-dotenv==1.0.0
